@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Use the standard libraries in python for finding linear regression.
+
 2.Set variables for assigning dataset values.
+
 3.Visulaize the data and define the sigmoid function, cost function and gradient descent.
+
 4.Import linear regression from sklearn.
+
 5.Predict the values of array.
+
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+
 7.Obtain the graph.
 
 ## Program:
